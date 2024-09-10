@@ -2635,7 +2635,7 @@
           "type": "File",
           "artifact": {
             "size": 202275831,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/resourcepacks/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip",
+            "url": "https://github.com/qdakim/jubbabi_file/raw/main/servers/jubbabi-1.20.1/files/resourcepacks/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip",
             "MD5": "9ff320ad00104e0412b3f0e53cfcf338",
             "path": "resourcepacks/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip"
           }
