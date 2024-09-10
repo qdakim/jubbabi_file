@@ -34,7 +34,7 @@ gamma:0.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:2
 particles:1
 maxFps:260
 graphicsMode:0
@@ -45,7 +45,7 @@ renderClouds:"fast"
 resourcePacks:["vanilla","mod_resources","black_icons","file/cassette music discs 1.20 v1.2.zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:localhost
-lang:en_us
+lang:ko_kr
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
