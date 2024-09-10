@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16542,
-                "MD5": "9a8ba2d460c39e7af1595566ece8d136",
+                "size": 16910,
+                "MD5": "ae231ace11fac6b9c740beb78080bb03",
                 "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/versions/1.20.1-forge-47.3.7/1.20.1-forge-47.3.7.json"
               }
             },
@@ -1013,6 +1013,1579 @@
           }
         },
         {
+          "id": "ArPhEx Configurations.toml",
+          "name": "ArPhEx Configurations.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2417,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/ArPhEx%20Configurations.toml",
+            "MD5": "ca9dc4748c30ef0d4a784855b7ef60a3",
+            "path": "config/ArPhEx Configurations.toml"
+          }
+        },
+        {
+          "id": "bettertitlescreen-client.toml",
+          "name": "bettertitlescreen-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/bettertitlescreen-client.toml",
+            "MD5": "c9fae48906b6010bc8319621d2f64341",
+            "path": "config/bettertitlescreen-client.toml"
+          }
+        },
+        {
+          "id": "bhmenu-client.toml",
+          "name": "bhmenu-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2022,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/bhmenu-client.toml",
+            "MD5": "d32b74eb0e64263f1a8c41a724337b26",
+            "path": "config/bhmenu-client.toml"
+          }
+        },
+        {
+          "id": "biome_toggles.json",
+          "name": "biome_toggles.json",
+          "type": "File",
+          "artifact": {
+            "size": 1999,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/biomesoplenty/biome_toggles.json",
+            "MD5": "ef74c4378e87db15c420c2d8435870b6",
+            "path": "config/biomesoplenty/biome_toggles.json"
+          }
+        },
+        {
+          "id": "generation.toml",
+          "name": "generation.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/biomesoplenty/generation.toml",
+            "MD5": "0b34931102b4821e542acc03e910a609",
+            "path": "config/biomesoplenty/generation.toml"
+          }
+        },
+        {
+          "id": "camera-client.toml",
+          "name": "camera-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/camera-client.toml",
+            "MD5": "71956bda8dbc40642cf44ef7e5d881e0",
+            "path": "config/camera-client.toml"
+          }
+        },
+        {
+          "id": "chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 152,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/chat_heads.json5",
+            "MD5": "ff6e0dc634336299e0022cdd5fee1242",
+            "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/chunky/config.json",
+            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
+            "path": "config/chunky/config.json"
+          }
+        },
+        {
+          "id": "overworld.properties",
+          "name": "overworld.properties",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/chunky/tasks/minecraft/overworld.properties",
+            "MD5": "cf3cc8fdf12cd33c8fca684a4741f23e",
+            "path": "config/chunky/tasks/minecraft/overworld.properties"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 960,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/collective.json5",
+            "MD5": "0966eae411065e30c194c91f61d887d4",
+            "path": "config/collective.json5"
+          }
+        },
+        {
+          "id": "craftpresence.json",
+          "name": "craftpresence.json",
+          "type": "File",
+          "artifact": {
+            "size": 4632,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/craftpresence.json",
+            "MD5": "1e626115ce335628791629129de17a50",
+            "path": "config/craftpresence.json"
+          }
+        },
+        {
+          "id": "cupboard.json",
+          "name": "cupboard.json",
+          "type": "File",
+          "artifact": {
+            "size": 1090,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/cupboard.json",
+            "MD5": "7725e2ad17f08b6221f0ecdeda137888",
+            "path": "config/cupboard.json"
+          }
+        },
+        {
+          "id": "doubledoors.json5",
+          "name": "doubledoors.json5",
+          "type": "File",
+          "artifact": {
+            "size": 730,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/doubledoors.json5",
+            "MD5": "5ae76381d7b4ab0b82dfa592853eaf68",
+            "path": "config/doubledoors.json5"
+          }
+        },
+        {
+          "id": "dynamiclights.cfg",
+          "name": "dynamiclights.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 65,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/dynamiclights.cfg",
+            "MD5": "7c36da9e1d8a3a60d125ff8f94f6970c",
+            "path": "config/dynamiclights.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_droppeditems.cfg",
+          "name": "dynamiclights_droppeditems.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/dynamiclights_droppeditems.cfg",
+            "MD5": "01500dbf7ed40ee445993ba6968ddce6",
+            "path": "config/dynamiclights_droppeditems.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_selflight.cfg",
+          "name": "dynamiclights_selflight.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/dynamiclights_selflight.cfg",
+            "MD5": "01500dbf7ed40ee445993ba6968ddce6",
+            "path": "config/dynamiclights_selflight.cfg"
+          }
+        },
+        {
+          "id": "embeddium++.toml",
+          "name": "embeddium++.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6840,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/embeddium++.toml",
+            "MD5": "d3bf74a1202977a5d18587d4c41619fc",
+            "path": "config/embeddium++.toml"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/embeddium-fingerprint.json",
+            "MD5": "c8a54f36ccc6271fd33d0fd951079e28",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/embeddium-mixins.properties",
+            "MD5": "13f433cb33f876d092096c11da58e2c1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 846,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/embeddium-options.json",
+            "MD5": "6960e07d26141eb5b8de407780be6c08",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "endofherobrine-client.toml",
+          "name": "endofherobrine-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 181,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/endofherobrine-client.toml",
+            "MD5": "e6b9ba74e6189785e8c2d2032977130a",
+            "path": "config/endofherobrine-client.toml"
+          }
+        },
+        {
+          "id": "endofherobrine-common.toml",
+          "name": "endofherobrine-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 928,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/endofherobrine-common.toml",
+            "MD5": "b5c63149f23e530166f3bbf19bac7176",
+            "path": "config/endofherobrine-common.toml"
+          }
+        },
+        {
+          "id": "entity_model_features.json",
+          "name": "entity_model_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 712,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/entity_model_features.json",
+            "MD5": "d9701646ee1096304314d3328622487d",
+            "path": "config/entity_model_features.json"
+          }
+        },
+        {
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1230,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/entity_texture_features.json",
+            "MD5": "51de1ee33a0610fe09f4af836f1cf7e3",
+            "path": "config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "eyesinthedarkness-client.toml",
+          "name": "eyesinthedarkness-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 197,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/eyesinthedarkness-client.toml",
+            "MD5": "0f354e6629bd3bbc12d42ffc3ffff594",
+            "path": "config/eyesinthedarkness-client.toml"
+          }
+        },
+        {
+          "id": "button-background-red.png",
+          "name": "button-background-red.png",
+          "type": "File",
+          "artifact": {
+            "size": 10961298,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/button-background-red.png",
+            "MD5": "3403cc78ca858b4f1c0990c62ce0f298",
+            "path": "config/fancymenu/assets/button-background-red.png"
+          }
+        },
+        {
+          "id": "button-background3.png",
+          "name": "button-background3.png",
+          "type": "File",
+          "artifact": {
+            "size": 11256618,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/button-background3.png",
+            "MD5": "8cb793354d6eb6b8aefaa36e94090e83",
+            "path": "config/fancymenu/assets/button-background3.png"
+          }
+        },
+        {
+          "id": "button-background4.png",
+          "name": "button-background4.png",
+          "type": "File",
+          "artifact": {
+            "size": 11995873,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/button-background4.png",
+            "MD5": "32fe7f2b41134c702e265bdc55dfcf87",
+            "path": "config/fancymenu/assets/button-background4.png"
+          }
+        },
+        {
+          "id": "button-background5.png",
+          "name": "button-background5.png",
+          "type": "File",
+          "artifact": {
+            "size": 11942239,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/button-background5.png",
+            "MD5": "357e2be537fd04a039bee6024a71ec3b",
+            "path": "config/fancymenu/assets/button-background5.png"
+          }
+        },
+        {
+          "id": "icon-16x16.png",
+          "name": "icon-16x16.png",
+          "type": "File",
+          "artifact": {
+            "size": 750,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/icon-16x16.png",
+            "MD5": "4fe8d13814c16de4666b8a735588a00b",
+            "path": "config/fancymenu/assets/icon-16x16.png"
+          }
+        },
+        {
+          "id": "icon-32x32.png",
+          "name": "icon-32x32.png",
+          "type": "File",
+          "artifact": {
+            "size": 2254,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/icon-32x32.png",
+            "MD5": "d7552b1e6c2a60b3672d8e83e675e844",
+            "path": "config/fancymenu/assets/icon-32x32.png"
+          }
+        },
+        {
+          "id": "icon-macos.icns",
+          "name": "icon-macos.icns",
+          "type": "File",
+          "artifact": {
+            "size": 4129,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/icon-macos.icns",
+            "MD5": "8c4edb126d3971e1aa814480bd4cc0ad",
+            "path": "config/fancymenu/assets/icon-macos.icns"
+          }
+        },
+        {
+          "id": "menu-music.ogg",
+          "name": "menu-music.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 757427,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/menu-music.ogg",
+            "MD5": "62de75fb99e460bceca36d81cf0b8266",
+            "path": "config/fancymenu/assets/menu-music.ogg"
+          }
+        },
+        {
+          "id": "menu-title.png",
+          "name": "menu-title.png",
+          "type": "File",
+          "artifact": {
+            "size": 5214683,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/assets/menu-title.png",
+            "MD5": "3e2b10b785ddf2026ccfb41cba1f430f",
+            "path": "config/fancymenu/assets/menu-title.png"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1652,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/config.txt",
+            "MD5": "84b74c48775922e3c1ac029fafb735e5",
+            "path": "config/fancymenu/config.txt"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 149,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "3d2147ca590dabed1e2b6e8e8831da0d",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "main-menu-layout.txt",
+          "name": "main-menu-layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 17060,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/customization/main-menu-layout.txt",
+            "MD5": "3ced72f46e2f64b26c1742412a83fff2",
+            "path": "config/fancymenu/customization/main-menu-layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 51,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
+            "path": "config/fancymenu/custom_gui_screens.txt"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/extensions/fmaudio/config.cfg",
+            "MD5": "9ab341528ec51f92869a1a9d02876c5d",
+            "path": "config/fancymenu/extensions/fmaudio/config.cfg"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 3363,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/extensions/fmaudio/locals/en_us.local",
+            "MD5": "f890c4649986796eecfc1cc2de02ded0",
+            "path": "config/fancymenu/extensions/fmaudio/locals/en_us.local"
+          }
+        },
+        {
+          "id": "element_layer_control.lewidget",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "43a5ab1a30249caf7dafc2f7ad4b0ed9",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+          }
+        },
+        {
+          "id": "legacy_checklist.txt",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "path": "config/fancymenu/legacy_checklist.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 27376,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/de_de.local",
+            "MD5": "f43e602abc1b3081611a3ee39efa0bdd",
+            "path": "config/fancymenu/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 114417,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/en_us.local",
+            "MD5": "37d24e28dc6e1027ef40720d8b629033",
+            "path": "config/fancymenu/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 13858,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/pl_pl.local",
+            "MD5": "22c68afab02c97f21832b904a5e4413c",
+            "path": "config/fancymenu/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 14283,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/pt_br.local",
+            "MD5": "9a91316e7c6e61a7a1e0874f34f77482",
+            "path": "config/fancymenu/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "ru_ru.local",
+          "name": "ru_ru.local",
+          "type": "File",
+          "artifact": {
+            "size": 155574,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/ru_ru.local",
+            "MD5": "06d4d09969aa81e24ad92ab8d00b178c",
+            "path": "config/fancymenu/locals/ru_ru.local"
+          }
+        },
+        {
+          "id": "uk_ua.local",
+          "name": "uk_ua.local",
+          "type": "File",
+          "artifact": {
+            "size": 147984,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/uk_ua.local",
+            "MD5": "617020e85943f6f8e44662d128945f46",
+            "path": "config/fancymenu/locals/uk_ua.local"
+          }
+        },
+        {
+          "id": "zh_cn.local",
+          "name": "zh_cn.local",
+          "type": "File",
+          "artifact": {
+            "size": 52106,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/locals/zh_cn.local",
+            "MD5": "20a74fbf1560def5e5528b78fb30fbfe",
+            "path": "config/fancymenu/locals/zh_cn.local"
+          }
+        },
+        {
+          "id": "menu_identifiers.db",
+          "name": "menu_identifiers.db",
+          "type": "File",
+          "artifact": {
+            "size": 10497,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/menu_identifiers.db",
+            "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
+            "path": "config/fancymenu/menu_identifiers.db"
+          }
+        },
+        {
+          "id": "icon16x16.png",
+          "name": "icon16x16.png",
+          "type": "File",
+          "artifact": {
+            "size": 3315,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/minecraftwindow/icons/icon16x16.png",
+            "MD5": "c85447ae1e876e29750458d5ed3e4b3f",
+            "path": "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+          }
+        },
+        {
+          "id": "icon32x32.png",
+          "name": "icon32x32.png",
+          "type": "File",
+          "artifact": {
+            "size": 7305,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/minecraftwindow/icons/icon32x32.png",
+            "MD5": "501d124c496e4a0602a2d37b1172faf8",
+            "path": "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1887,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/options.txt",
+            "MD5": "1d6e16cff90504641a6655e8898b30d5",
+            "path": "config/fancymenu/options.txt"
+          }
+        },
+        {
+          "id": "image_1.png",
+          "name": "image_1.png",
+          "type": "File",
+          "artifact": {
+            "size": 2713756,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_1.png",
+            "MD5": "e3e0bf3a71aaaf164823e4d3573186b7",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_1.png"
+          }
+        },
+        {
+          "id": "image_10.png",
+          "name": "image_10.png",
+          "type": "File",
+          "artifact": {
+            "size": 134606,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_10.png",
+            "MD5": "767ac4519ab91a53ba277e5fa86171af",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_10.png"
+          }
+        },
+        {
+          "id": "image_2.png",
+          "name": "image_2.png",
+          "type": "File",
+          "artifact": {
+            "size": 3059982,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_2.png",
+            "MD5": "3d1f25998ed9342c36e1a3318b6eb751",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_2.png"
+          }
+        },
+        {
+          "id": "image_3.png",
+          "name": "image_3.png",
+          "type": "File",
+          "artifact": {
+            "size": 1563528,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_3.png",
+            "MD5": "3138283dbce1c76054fa8486d6b13979",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_3.png"
+          }
+        },
+        {
+          "id": "image_4.png",
+          "name": "image_4.png",
+          "type": "File",
+          "artifact": {
+            "size": 2671508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_4.png",
+            "MD5": "529faff60fbabaa25891237069b7de4e",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_4.png"
+          }
+        },
+        {
+          "id": "image_5.png",
+          "name": "image_5.png",
+          "type": "File",
+          "artifact": {
+            "size": 3516061,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_5.png",
+            "MD5": "9284f965bff059efc852f6fe691eb20f",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_5.png"
+          }
+        },
+        {
+          "id": "image_6.png",
+          "name": "image_6.png",
+          "type": "File",
+          "artifact": {
+            "size": 2658232,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_6.png",
+            "MD5": "75f5c9b7338f9515b4aae77dcb40490c",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_6.png"
+          }
+        },
+        {
+          "id": "image_7.png",
+          "name": "image_7.png",
+          "type": "File",
+          "artifact": {
+            "size": 2922734,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_7.png",
+            "MD5": "74929e3ad00951932f5f6bf952df490b",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_7.png"
+          }
+        },
+        {
+          "id": "image_8.png",
+          "name": "image_8.png",
+          "type": "File",
+          "artifact": {
+            "size": 2880915,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_8.png",
+            "MD5": "aaffea2cad665e2d2fcd44343ef64575",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_8.png"
+          }
+        },
+        {
+          "id": "image_9.png",
+          "name": "image_9.png",
+          "type": "File",
+          "artifact": {
+            "size": 2670177,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/images/image_9.png",
+            "MD5": "ffd1d577ef5b1022015eceaf90964a85",
+            "path": "config/fancymenu/slideshows/myslideshow1/images/image_9.png"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/slideshows/myslideshow1/properties.txt",
+            "MD5": "5fe0dbfa68afcd887bf75bcb7238d024",
+            "path": "config/fancymenu/slideshows/myslideshow1/properties.txt"
+          }
+        },
+        {
+          "id": "dark.json",
+          "name": "dark.json",
+          "type": "File",
+          "artifact": {
+            "size": 4133,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "1fc916f1d20b24c5f0d2d138d19c49a4",
+            "path": "config/fancymenu/ui_themes/dark.json"
+          }
+        },
+        {
+          "id": "light.json",
+          "name": "light.json",
+          "type": "File",
+          "artifact": {
+            "size": 4135,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "path": "config/fancymenu/ui_themes/light.json"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1148,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/fml.toml",
+            "MD5": "783d5f5e55fc91951e5e234d72980761",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/forge-client.toml",
+            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "gravestone-client.toml",
+          "name": "gravestone-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 217,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/gravestone-client.toml",
+            "MD5": "29a842816e0d789a3568f21342225b28",
+            "path": "config/gravestone-client.toml"
+          }
+        },
+        {
+          "id": "the-graveyard-3.0-config.json5",
+          "name": "the-graveyard-3.0-config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 5084,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/graveyard/the-graveyard-3.0-config.json5",
+            "MD5": "ab5b9682a4883f3cec8fb179e2dc87b1",
+            "path": "config/graveyard/the-graveyard-3.0-config.json5"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1142,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/immediatelyfast.json",
+            "MD5": "5ea4769a2335dfad801d3d1b4883aadd",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "areas.json",
+          "name": "areas.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/areas.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/areas.json"
+          }
+        },
+        {
+          "id": "breakevents.json",
+          "name": "breakevents.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/breakevents.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/breakevents.json"
+          }
+        },
+        {
+          "id": "effects.json",
+          "name": "effects.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/effects.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/effects.json"
+          }
+        },
+        {
+          "id": "events.json",
+          "name": "events.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/events.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/events.json"
+          }
+        },
+        {
+          "id": "experience.json",
+          "name": "experience.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/experience.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/experience.json"
+          }
+        },
+        {
+          "id": "leftclicks.json",
+          "name": "leftclicks.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/leftclicks.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/leftclicks.json"
+          }
+        },
+        {
+          "id": "loot.json",
+          "name": "loot.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/loot.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/loot.json"
+          }
+        },
+        {
+          "id": "phases.json",
+          "name": "phases.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/phases.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/phases.json"
+          }
+        },
+        {
+          "id": "placeevents.json",
+          "name": "placeevents.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/placeevents.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/placeevents.json"
+          }
+        },
+        {
+          "id": "rightclicks.json",
+          "name": "rightclicks.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/rightclicks.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/rightclicks.json"
+          }
+        },
+        {
+          "id": "spawn.json",
+          "name": "spawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/spawn.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/spawn.json"
+          }
+        },
+        {
+          "id": "spawner.json",
+          "name": "spawner.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/spawner.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/spawner.json"
+          }
+        },
+        {
+          "id": "summonaid.json",
+          "name": "summonaid.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/incontrol/summonaid.json",
+            "MD5": "d751713988987e9331980363e24189ce",
+            "path": "config/incontrol/summonaid.json"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 191,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jade/hide-blocks.json",
+            "MD5": "da56a1383649dd1ebbbf41d9cfddb0da",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 325,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jade/hide-entities.json",
+            "MD5": "7b674db14cfdc978fa9786641eec8df6",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 974,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jade/jade.json",
+            "MD5": "bfdbc8df70932e88399bd6c039163be0",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 1864,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jade/plugins.json",
+            "MD5": "38967ee18df72c753ac3812432b77384",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 1578,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jade/sort-order.json",
+            "MD5": "135abf1cfd2cc7396d514ba0d9ec3580",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/blacklist.cfg",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 541,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "64bc91d4959d3eb1cffbb8618ac9f7d5",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 74,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "9256ba0b170fac4934f83a4e789d14a8",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 7325,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/jei-client.ini",
+            "MD5": "63ff01b18fca422f2f4c7f5cf327aca8",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1337,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/jei-colors.ini",
+            "MD5": "a23718add9e4884ca9d259aedd73161b",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 731,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/jei-debug.ini",
+            "MD5": "d73fe54f763b29ece25f8545cf78b792",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "MD5": "d9df39bf869d7344ef78697b986e3b05",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "MD5": "8466fbde6c28fe3d9f35cea524b81333",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "bookmarks.ini",
+          "name": "bookmarks.ini",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/jei/world/local/New_World/bookmarks.ini",
+            "MD5": "661051b5bcfb94024cb9a8766b1644ac",
+            "path": "config/jei/world/local/New_World/bookmarks.ini"
+          }
+        },
+        {
+          "id": "knocker.toml",
+          "name": "knocker.toml",
+          "type": "File",
+          "artifact": {
+            "size": 296,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/knocker.toml",
+            "MD5": "b9e89ccabb2287e17277087bb1ad666a",
+            "path": "config/knocker.toml"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 349,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/lithium.properties",
+            "MD5": "3c42a2329e7355c9e703389dfa6dc2cd",
+            "path": "config/lithium.properties"
+          }
+        },
+        {
+          "id": "lunar-common.toml",
+          "name": "lunar-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1461,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/lunar-common.toml",
+            "MD5": "705bd2cd0f9f2ead3ec805fec4f1e3db",
+            "path": "config/lunar-common.toml"
+          }
+        },
+        {
+          "id": "man.toml",
+          "name": "man.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2235,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/man.toml",
+            "MD5": "7d613c4b5eac8b924f1f502c63e0d5d4",
+            "path": "config/man.toml"
+          }
+        },
+        {
+          "id": "man_config.toml",
+          "name": "man_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2074,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/man_config.toml",
+            "MD5": "c362ccd2c5f29d638c07f791b1c70934",
+            "path": "config/man_config.toml"
+          }
+        },
+        {
+          "id": "naturescompass-client.toml",
+          "name": "naturescompass-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 432,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/naturescompass-client.toml",
+            "MD5": "dfe7626832ede6b7b53e6a898b96e5d9",
+            "path": "config/naturescompass-client.toml"
+          }
+        },
+        {
+          "id": "naturescompass-common.toml",
+          "name": "naturescompass-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1142,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/naturescompass-common.toml",
+            "MD5": "d80b82667a1fe6b49421b7a7db5ebd8a",
+            "path": "config/naturescompass-common.toml"
+          }
+        },
+        {
+          "id": "nyfsspiders.toml",
+          "name": "nyfsspiders.toml",
+          "type": "File",
+          "artifact": {
+            "size": 191,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/nyfsspiders.toml",
+            "MD5": "ce8bae36eee7831b700ac0906ab8fb6b",
+            "path": "config/nyfsspiders.toml"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/oculus.properties",
+            "MD5": "0609b7886c7a0a0b575e43ac5d137c7c",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "polymorph-integrations.toml",
+          "name": "polymorph-integrations.toml",
+          "type": "File",
+          "artifact": {
+            "size": 333,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/polymorph-integrations.toml",
+            "MD5": "aa4c6b2d063bdc397c20479114f8f0ba",
+            "path": "config/polymorph-integrations.toml"
+          }
+        },
+        {
+          "id": "userconfig.json",
+          "name": "userconfig.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/presencefootsteps/userconfig.json",
+            "MD5": "bfe0471fd7f0784acdf8e204ac36a4e1",
+            "path": "config/presencefootsteps/userconfig.json"
+          }
+        },
+        {
+          "id": "refurbished_furniture.client.toml",
+          "name": "refurbished_furniture.client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1005,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/refurbished_furniture.client.toml",
+            "MD5": "59ddda1e30a6cd2b4d6436ca52df738d",
+            "path": "config/refurbished_furniture.client.toml"
+          }
+        },
+        {
+          "id": "refurbished_furniture.server.toml",
+          "name": "refurbished_furniture.server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6778,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/refurbished_furniture.server.toml",
+            "MD5": "7ac82aa86648731043c1100176550851",
+            "path": "config/refurbished_furniture.server.toml"
+          }
+        },
+        {
+          "id": "securitycraft-client.toml",
+          "name": "securitycraft-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/securitycraft-client.toml",
+            "MD5": "9c3cb4026286d879870c8c25436b59cd",
+            "path": "config/securitycraft-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sophisticatedbackpacks-common.toml",
+            "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
+            "path": "config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 351,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sophisticatedcore-client.toml",
+            "MD5": "154bd9cf14a45c6aa007cb5467f1a454",
+            "path": "config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2554,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sophisticatedcore-common.toml",
+            "MD5": "861bcbf5b97280025407e315092d5d60",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "allowed_sounds.properties",
+          "name": "allowed_sounds.properties",
+          "type": "File",
+          "artifact": {
+            "size": 79027,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
+            "MD5": "cf0b9c5bd2f602f7a6470cb51fc3f162",
+            "path": "config/sound_physics_remastered/allowed_sounds.properties"
+          }
+        },
+        {
+          "id": "occlusion.properties",
+          "name": "occlusion.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4831,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
+            "MD5": "7e6c2f3ebad70824ef7c853773a2cd43",
+            "path": "config/sound_physics_remastered/occlusion.properties"
+          }
+        },
+        {
+          "id": "reflectivity.properties",
+          "name": "reflectivity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4713,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "ca317d30a9232d4277eb8bd98c4b92be",
+            "path": "config/sound_physics_remastered/reflectivity.properties"
+          }
+        },
+        {
+          "id": "soundphysics.properties",
+          "name": "soundphysics.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4908,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/sound_physics_remastered/soundphysics.properties",
+            "MD5": "23fe19e40092835b07cedbd8832b401f",
+            "path": "config/sound_physics_remastered/soundphysics.properties"
+          }
+        },
+        {
+          "id": "activity.json",
+          "name": "activity.json",
+          "type": "File",
+          "artifact": {
+            "size": 282,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/spark/activity.json",
+            "MD5": "f67a0501100615411319c0b7760e56d7",
+            "path": "config/spark/activity.json"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/spark/config.json",
+            "MD5": "fd707ecbb3f9675d81535e88b7712d0b",
+            "path": "config/spark/config.json"
+          }
+        },
+        {
+          "id": "terrablender.toml",
+          "name": "terrablender.toml",
+          "type": "File",
+          "artifact": {
+            "size": 552,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/terrablender.toml",
+            "MD5": "0a79fa039b71bf8d3942f677d3269576",
+            "path": "config/terrablender.toml"
+          }
+        },
+        {
+          "id": "toastcontrol-common.toml",
+          "name": "toastcontrol-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1445,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/toastcontrol-common.toml",
+            "MD5": "d1c3c45914d0a076f07d0a39219d2f29",
+            "path": "config/toastcontrol-common.toml"
+          }
+        },
+        {
+          "id": "harvestable_axe_blacklist.txt",
+          "name": "harvestable_axe_blacklist.txt",
+          "type": "File",
+          "artifact": {
+            "size": 470,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/treeharvester/harvestable_axe_blacklist.txt",
+            "MD5": "9af58528f9238dfce2c195a8fab70590",
+            "path": "config/treeharvester/harvestable_axe_blacklist.txt"
+          }
+        },
+        {
+          "id": "treeharvester.json5",
+          "name": "treeharvester.json5",
+          "type": "File",
+          "artifact": {
+            "size": 2687,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/treeharvester.json5",
+            "MD5": "346ccdaab321d87f39f746df798a34e7",
+            "path": "config/treeharvester.json5"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1133,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat/translations.properties",
+            "MD5": "3847ec6998814d22e66360d37201fcc9",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "username-cache.json",
+          "name": "username-cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 103,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat/username-cache.json",
+            "MD5": "9f6362e8b9f47d85553f9c98e2a7d33e",
+            "path": "config/voicechat/username-cache.json"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3809,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "MD5": "60410f7efb208a20897fc6164035bf83",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1861,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "MD5": "301faeac5a0b0a3229892e8fb90fad01",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voicechat-volumes.properties",
+          "name": "voicechat-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat/voicechat-volumes.properties",
+            "MD5": "fcb38654c898989fdf9b82707c3ee2f5",
+            "path": "config/voicechat/voicechat-volumes.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.toml",
+          "name": "voicechat-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/voicechat-client.toml",
+            "MD5": "2fb2989fe60bf9a60eb6e8946ce4bb12",
+            "path": "config/voicechat-client.toml"
+          }
+        },
+        {
+          "id": "waterdripsound-client-1.toml.bak",
+          "name": "waterdripsound-client-1.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client-1.toml.bak",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client-1.toml.bak"
+          }
+        },
+        {
+          "id": "waterdripsound-client-2.toml.bak",
+          "name": "waterdripsound-client-2.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client-2.toml.bak",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client-2.toml.bak"
+          }
+        },
+        {
+          "id": "waterdripsound-client-3.toml.bak",
+          "name": "waterdripsound-client-3.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client-3.toml.bak",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client-3.toml.bak"
+          }
+        },
+        {
+          "id": "waterdripsound-client-4.toml.bak",
+          "name": "waterdripsound-client-4.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client-4.toml.bak",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client-4.toml.bak"
+          }
+        },
+        {
+          "id": "waterdripsound-client-5.toml.bak",
+          "name": "waterdripsound-client-5.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client-5.toml.bak",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client-5.toml.bak"
+          }
+        },
+        {
+          "id": "waterdripsound-client.toml",
+          "name": "waterdripsound-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 508,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/config/waterdripsound-client.toml",
+            "MD5": "01e112503bc149d0ad8c82115128178d",
+            "path": "config/waterdripsound-client.toml"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -1024,6 +2597,50 @@
           }
         },
         {
+          "id": "cassette music discs 1.20 v1.2.zip",
+          "name": "cassette music discs 1.20 v1.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 9859,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/resourcepacks/cassette%20music%20discs%201.20%20v1.2.zip",
+            "MD5": "8cfcf933da2e6d7ec664eafc04c7e53c",
+            "path": "resourcepacks/cassette music discs 1.20 v1.2.zip"
+          }
+        },
+        {
+          "id": "FA+All_Extensions-v1.4.zip",
+          "name": "FA+All_Extensions-v1.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 260285,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/resourcepacks/FA+All_Extensions-v1.4.zip",
+            "MD5": "6923ea8556177cc93166c01dc40a64e1",
+            "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.9.2.zip",
+          "name": "FreshAnimations_v1.9.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 516256,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/resourcepacks/FreshAnimations_v1.9.2.zip",
+            "MD5": "ebdaffde1a25273994c74b5d9ec21e1f",
+            "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+          }
+        },
+        {
+          "id": "TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip",
+          "name": "TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 202275831,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/resourcepacks/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip",
+            "MD5": "9ff320ad00104e0412b3f0e53cfcf338",
+            "path": "resourcepacks/TaxAtmosphereAlien+M.1.20.1+Reso.1.0.0.zip"
+          }
+        },
+        {
           "id": "servers.dat",
           "name": "servers.dat",
           "type": "File",
@@ -1032,6 +2649,72 @@
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/servers.dat",
             "MD5": "982b938b71ae2be6cc57169598989cd8",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.2.2.zip",
+          "name": "ComplementaryReimagined_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441683,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.2.zip",
+            "MD5": "a0852d3fddaf2c7f957ad6e1b8624513",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+          }
+        },
+        {
+          "id": "DrDestens MinecraftShaders v2.0.4.zip",
+          "name": "DrDestens MinecraftShaders v2.0.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 127314,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/DrDestens%20MinecraftShaders%20v2.0.4.zip",
+            "MD5": "60d672f5d90fe74c27d31cbf4bb7bcf7",
+            "path": "shaderpacks/DrDestens MinecraftShaders v2.0.4.zip"
+          }
+        },
+        {
+          "id": "Insanity-Shader-Universal-v1.650.zip",
+          "name": "Insanity-Shader-Universal-v1.650.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1037373,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
+            "MD5": "97a61aad0133f120e536a420b92d4e88",
+            "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142239,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip",
+            "MD5": "cffbb5d1e720f96358ab2173c72b938a",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
+          }
+        },
+        {
+          "id": "Spooklementary_1.1.zip",
+          "name": "Spooklementary_1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 417282,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/Spooklementary_1.1.zip",
+            "MD5": "81dd1e9a8f4bedb1a5828e4a963c05f1",
+            "path": "shaderpacks/Spooklementary_1.1.zip"
           }
         }
       ]
