@@ -1,0 +1,1008 @@
+{
+  "version": "1.0.0",
+  "rss": "https://github.com/qdakim/jubbabi/tags.atom",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "jubbabi-1.20.1",
+      "name": "jubbabi (Minecraft 1.20.1)",
+      "description": "jubbabi Running Minecraft 1.20.1 (Forge v47.3.7)",
+      "icon": "https://github.com/qdakim/jubbabi_file/raw/main/server-icon.png",
+      "version": "1.0.0",
+      "address": "www.jubbabi.kro.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.3.7",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7399,
+            "MD5": "040d351d606060d5b83fddd26e81705d",
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.3.7",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16542,
+                "MD5": "9a8ba2d460c39e7af1595566ece8d136",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/versions/1.20.1-forge-47.3.7/1.20.1-forge-47.3.7.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.3.7",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118686,
+                "MD5": "b1c804dde01878dbcf9310c3bd04eea6",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.3.7",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16516,
+                "MD5": "e9db49e1ca0eee9fec499c3e9173a319",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.3.7",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 5000,
+                "MD5": "6b2bda8e9f9047e54d0e0d925f89cdf7",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.7:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2753823,
+                "MD5": "015c7a55def72696038352f56d741d32",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.3.7:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4793821,
+                "MD5": "8e4fb7202d94e3336ea097a8621e8733",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 125428,
+                "MD5": "3957b18bf02a62edcb6726d074b90b08",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/ow2/asm/asm/9.7/asm-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73426,
+                "MD5": "53a46610df6a8dbc4ff85b8fd4cdea66",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "ea5cad3e0cbd2520688e4b0b5c4218e7",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 93784,
+                "MD5": "e7d6e20888e6fd99605f4c5fe1dfa8b0",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 34776,
+                "MD5": "910ac9c691023f1a9ff33c413ae9fbf6",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.1.6",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24124,
+                "MD5": "4b4fe7e512819804660d621bf11c7381",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.3.7",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 264940,
+                "MD5": "23f0d0ea2c9b56938019c207363a1589",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.3.7/fmlloader-1.20.1-47.3.7.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.3.7",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170425,
+                "MD5": "9866c86a40d79514f2fcfbf901788567",
+                "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.3.7/fmlearlydisplay-1.20.1-47.3.7.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.geforcemods:securitycraft:1.9.10@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4407575,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.10.jar",
+            "MD5": "89411276ef9c81550dd8b5821fa9412a"
+          }
+        },
+        {
+          "id": "net.mcreator:anomaly:1.0.0@jar",
+          "name": "Anomaly",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1557555,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/anomaly-1.9.0-forge-1.20.1.jar",
+            "MD5": "279561674128b958146144cf123cd729"
+          }
+        },
+        {
+          "id": "apollyon:apollyon:1.1.0@jar",
+          "name": "Apollyon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9908904,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Apollyon%20v1.1.0%20(Forge%201.20.1).jar",
+            "MD5": "d4418600d46ac84aebd74505695b9967"
+          }
+        },
+        {
+          "id": "net.arphex:arphex:3.1.7@jar",
+          "name": "Arthropod Phobia Expansions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6261801,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/ArPhEx-3.1.7b-forge-1.20.1.jar",
+            "MD5": "0ab8dbc52dc06581bc437dea2215321b"
+          }
+        },
+        {
+          "id": "biomesoplenty.core:biomesoplenty:18.0.0.592@jar",
+          "name": "Biomes O' Plenty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21800460,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
+          }
+        },
+        {
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.0.0@jar",
+          "name": "Born in Chaos ",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11529399,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.3.1.jar",
+            "MD5": "1670c41b9d50861723cd299bf314c08b"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.20.1-1.0.14@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299536,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.14.jar",
+            "MD5": "23c914ade1190fcea976dea4b1b1ff07"
+          }
+        },
+        {
+          "id": "de.cadentem:cave_dweller:1.6.4@jar",
+          "name": "Cave_dweller",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 637026,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/cave_dweller-1.20.1-1.6.4.jar",
+            "MD5": "c88384d2a833294c18844e9934f8e327"
+          }
+        },
+        {
+          "id": "org.popcraft:chunky:1.3.146@jar",
+          "name": "Chunky",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341451,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Chunky-1.3.146.jar",
+            "MD5": "ed46120ac4f30ec8e03f6416e295577c"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.118@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1168391,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/cloth-config-11.1.118-forge.jar",
+            "MD5": "728bdaa093e07f3567640d36c55656ae"
+          }
+        },
+        {
+          "id": "com.natamus:collective:7.84@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 647473,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/collective-1.20.1-7.84.jar",
+            "MD5": "ddd7ae258844d75354a728aff37a8032"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.11@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 851535,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/connectedglass-1.1.11-forge-mc1.20.1.jar",
+            "MD5": "dcaf1ca5f594ac659d38884e5cd3b9d3"
+          }
+        },
+        {
+          "id": "me.drex:crashexploitfixer:1.1.0@jar",
+          "name": "CrashExploitFixer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 688719,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/crashexploitfixer-forge-1.1.0+1.20.1.jar",
+            "MD5": "6038b983a31161d98cc13771ac12466a"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25983,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "MD5": "3620912474f47bf58d1fe5bfe133763a"
+          }
+        },
+        {
+          "id": "net.mcreator.deepdarkregrowth:deep_dark_regrowth:1.2.6.1@jar",
+          "name": "Deep Dark: Regrowth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16188290,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Deep%20Dark%20Regrowth%201.2.6.1%20-%201.20.1.jar",
+            "MD5": "621fc10d7c4e89e28641c0002832099e"
+          }
+        },
+        {
+          "id": "com.natamus:doubledoors:5.9@jar",
+          "name": "Double Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 49193,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/doubledoors-1.20.1-5.9.jar",
+            "MD5": "c3dcbbd65d8feb3c8f65668f48b3521b"
+          }
+        },
+        {
+          "id": "com.lgow:endofherobrine:1.20.1-1.0.8.2@jar",
+          "name": "The End of Herobrine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 545968,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/endofherobrine-1.20.1-1.0.8.2.jar",
+            "MD5": "06a391057a16b59eea5fad51bf89512a"
+          }
+        },
+        {
+          "id": "dev.gigaherz.eyes:eyesinthedarkness:1.3.10@jar",
+          "name": "Eyes in the Darkness",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 279244,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/EyesInTheDarkness-1.20.1-1.3.10.jar",
+            "MD5": "1280b51aaec511722d6c10b066d112cd"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.7.6@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 302794,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.6.jar",
+            "MD5": "893efb834cfc0b4ff518ad88897d4ba1"
+          }
+        },
+        {
+          "id": "studio.lunareclipse:watching:1.9.2@jar",
+          "name": "From The Fog",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4749752,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar",
+            "MD5": "50a095dcb6dfd46143133a62f50d36ee"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.1.1@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 221813,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/fusion-1.1.1-forge-mc1.20.1.jar",
+            "MD5": "c8cc6729366722da02ea57fd87d7275c"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.4.7@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 991110,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.4.7.jar",
+            "MD5": "84bc00493b180b13fa3bab48dff9d2d8"
+          }
+        },
+        {
+          "id": "generated.forgemod:geophilic_reforged:1.2.0@jar",
+          "name": "Geophilic Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 381424,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/GeophilicReforged-v1.2.0.jar",
+            "MD5": "c02eb4940e6c4716bbddcd49dc672527"
+          }
+        },
+        {
+          "id": "de.maxhenkel:gravestone:1.20.1-1.0.21@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 314943,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.21.jar",
+            "MD5": "db023c5b9735ec2acb90ff45ac39cd2d"
+          }
+        },
+        {
+          "id": "mcjty.incontrol:incontrol:1.20-9.2.6@jar",
+          "name": "InControl",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 319212,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/incontrol-1.20-9.2.6.jar",
+            "MD5": "b1d76b86d169430ebd86d36b50d514f0"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.12.2.51@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1343395,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/jei-1.20.1-forge-15.12.2.51.jar",
+            "MD5": "4500381fa9b095a7d41929fc443c31c1"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.1@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160219,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/journeymap-1.20.1-5.10.1-forge.jar",
+            "MD5": "dddc978902ed8416be39cfebdff7c22d"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.leon.lsspookymusic:ls_spooky_music:1.0.1@jar",
+          "name": "Leon's Spooky Music",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 35710430,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/LeonsSpookyMusic+M1.20.1+ForM.1.0.1.jar",
+            "MD5": "aa27f4cadc9e31d2ded1fe0a614c497b"
+          }
+        },
+        {
+          "id": "com.leon.spooky_paintings:ls_spooky_paintings:2.1.0@jar",
+          "name": "Spooky Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 583442,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/LeonsSpookyPaintings+M.1.20.1+ForM.2.1.0.jar",
+            "MD5": "64d0b5deb585f60a9248f38ea010c246"
+          }
+        },
+        {
+          "id": "com.mrbysco:lunar:0.2.0@jar",
+          "name": "Lunar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 87486,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Lunar-forge-1.20.1-0.2.0.jar",
+            "MD5": "c09c669e9bae716b8d3c17dfc2e929b1"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.1@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1202279,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/mcw-doors-1.1.1forge-mc1.20.1.jar",
+            "MD5": "70a4d52ca95ecd57bcbb146e9c6950ce"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.1.2@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 522886,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/mcw-fences-1.1.2-mc1.20.1forge.jar",
+            "MD5": "729a8ce749bb6deff288ea1791ff9602"
+          }
+        },
+        {
+          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.3@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 674687,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/mcw-trapdoors-1.1.3-mc1.20.1forge.jar",
+            "MD5": "3caced7ea133ba8c51bfc309ba91df82"
+          }
+        },
+        {
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37178,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.20.1-1.11.2-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215119,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "MD5": "7c05072645b1aae529b1e38c74b87c4c"
+          }
+        },
+        {
+          "id": "com.nyfaria:nyfsspiders:2.1.1@jar",
+          "name": "Nyf's Spiders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 178046,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/nyfsspiders-forge-1.20.1-2.1.1.jar",
+            "MD5": "ea108358eb205d13bf1aa15c534f628d"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:placebo:8.6.2@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285351,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Placebo-1.20.1-8.6.2.jar",
+            "MD5": "0b7358e758257452184a3a8f82f60abe"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.5+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 298759,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/polymorph-forge-0.49.5+1.20.1.jar",
+            "MD5": "50b704c0f2c18db908ce99d628889a9a"
+          }
+        },
+        {
+          "id": "eu.ha3:presencefootsteps:1.20.1-1.9.1-beta.1@jar",
+          "name": "Presence Footsteps (Forge)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7080698,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar",
+            "MD5": "e42d774ced61f8c62c58f3111aa5e3f5"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.lithium:radium:0.12.3+git.50c5c33@jar",
+          "name": "Radium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 712994,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/radium-mc1.20.1-0.12.3+git.50c5c33.jar",
+            "MD5": "06d9a7528a47a7618aaaad5f26c85794"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.5@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6671783,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.5.jar",
+            "MD5": "71bf77b642935f88ae6e6628417a428a"
+          }
+        },
+        {
+          "id": "net.mcreator.sonsofsins:sons_of_sins:2.1.6@jar",
+          "name": "Sons of Sins",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4358193,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/sons-of-sins-1.20.1-2.1.6.jar",
+            "MD5": "e0cf5db302a864500b3edbc5376747db"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.20.5.1044@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 851750,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.20.5.1044.jar",
+            "MD5": "1cb86d978ee8780206de685497d1faf0"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.6.22.611@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1080551,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.6.22.611.jar",
+            "MD5": "3569d694bccc0e8e35ab7707b4baf0b1"
+          }
+        },
+        {
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.5@jar",
+          "name": "Sound Physics Remastered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196564,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.5.jar",
+            "MD5": "e819065ae0a3d034c7804e2b2e16a45f"
+          }
+        },
+        {
+          "id": "me.lucko:spark:1.10.53@jar",
+          "name": "Spark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3114590,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
+            "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.17@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 512069,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+            "MD5": "d1ac18092ea0b1b513edcd8c3999e1bd"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.7@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107534,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "MD5": "78abbc04e408fb61de6df9c968008c4b"
+          }
+        },
+        {
+          "id": "com.lion:graveyard:3.1@jar",
+          "name": "The Graveyard",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10298153,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+            "MD5": "7a27b8747306bdee0857b50e11a9850e"
+          }
+        },
+        {
+          "id": "net.mcreator.theknocker:the_knocker:1.3.0@jar",
+          "name": "The Knocker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 423520,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/the_knocker-1.3.0b-forge-1.20.1.jar",
+            "MD5": "a2090ed1e00e4b00180482fef1b40b42"
+          }
+        },
+        {
+          "id": "net.mcreator:man:1.3@jar",
+          "name": "The Man From The Fog",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7554431,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/The-Man-From-The-Fog-1.3-1.20.1.jar",
+            "MD5": "8e949e0f9e7119bab9b1d787d600b1a3"
+          }
+        },
+        {
+          "id": "net.mcreator.undeadrevamp:undead_revamp2:1.0.0@jar",
+          "name": "Undead_revamp2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6254561,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/THEUNDEADREVAMPED_1.2_1.20.1[Society%20Monmento%20%20Update].jar",
+            "MD5": "9a0771a562b0c61592195eace5282b6a"
+          }
+        },
+        {
+          "id": "com.natamus:treeharvester:9.1@jar",
+          "name": "Tree Harvester",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85932,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/treeharvester-1.20.1-9.1.jar",
+            "MD5": "5eb545033d4c95bcad95e690f8c7618e"
+          }
+        },
+        {
+          "id": "com.gitlab.cdagaming:unilib:1.0.1@jar",
+          "name": "UniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 964959,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/UniLib-1.0.1+1.20.1-forge.jar",
+            "MD5": "ea5035ab1468871b83cdd0c5ca285685"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.20@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7715661,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.20.jar",
+            "MD5": "db36439eb601a51a9578b7b2af3ab73a"
+          }
+        },
+        {
+          "id": "com.minecraftserverzone:vtaw_mw:1.0.4@jar",
+          "name": "Variant Tools and Weaponry - Extra Weapons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119186,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/vtaw_mw-forge-1.20.1-1.0.4.jar",
+            "MD5": "3343754bd82c0dd60fcbbf2a61f2db91"
+          }
+        }
+      ]
+    }
+  ]
+}
