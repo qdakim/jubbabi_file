@@ -453,6 +453,36 @@
           }
         },
         {
+          "id": "com.blamejared:ambientenvironment:11.0.0.1@jar",
+          "name": "Ambient Environment",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7336,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar",
+            "MD5": "80870abafff093c70f437073c4c754b0"
+          }
+        },
+        {
+          "id": "team.creative:ambientsounds:6.0.1@jar",
+          "name": "AmbientSounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85327525,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/AmbientSounds_FORGE_v6.0.1_mc1.20.1.jar",
+            "MD5": "7ca481acb07e1c6057c8ee62b6349852"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
           "id": "dev.architectury:architectury:9.2.14@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -493,6 +523,16 @@
           }
         },
         {
+          "id": "de.keksuccino:auudio:1.0.3@jar",
+          "name": "Auudio",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27560,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/auudio_forge_1.0.3_MC_1.19.3.jar",
+            "MD5": "33724200774e08146d7ceeb73c649871"
+          }
+        },
+        {
           "id": "net.darkhax:badmobs:19.0.2@jar",
           "name": "BadMobs",
           "type": "ForgeMod",
@@ -523,6 +563,16 @@
           }
         },
         {
+          "id": "io.socol:betterthirdperson:1.9.0@jar",
+          "name": "Better Third Person",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61525,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/BetterThirdPerson-Forge-1.20-1.9.0.jar",
+            "MD5": "298625b2f4567069bcfbea3dceba294d"
+          }
+        },
+        {
           "id": "net.darkhax:bookshelf:20.2.13@jar",
           "name": "Bookshelf",
           "type": "ForgeMod",
@@ -530,6 +580,16 @@
             "size": 343962,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
             "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.12.3@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 221680,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/chat_heads-0.12.3-forge-1.20.jar",
+            "MD5": "d6c0a4a9ea0077bed4b1c30b62a460f4"
           }
         },
         {
@@ -713,6 +773,26 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.19+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1280293,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/embeddium-0.3.19+mc1.20.1-all.jar",
+            "MD5": "1b272575bea5f1e7c61a4d189b712343"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:17.0.16@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69369,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.0.16.jar",
+            "MD5": "8fd2b50541a17f6515cc1b438bedc41a"
+          }
+        },
+        {
           "id": "corgitaco.enhancedcelestials:enhancedcelestials:5.0.0.4@jar",
           "name": "Enhanced Celestials",
           "type": "ForgeMod",
@@ -720,6 +800,46 @@
             "size": 1656994,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Enhanced_Celestials-forge-1.20.1-5.0.0.4.jar",
             "MD5": "ee0d5d549c7b0e1c9265f1d61bf6500a"
+          }
+        },
+        {
+          "id": "team.creative:enhancedvisuals:1.8.1@jar",
+          "name": "EnhancedVisuals",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4726281,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/EnhancedVisuals_FORGE_v1.8.1_mc1.20.1.jar",
+            "MD5": "de2418c4becb5e0030d3c8d35659d101"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.0.2@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 391041,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.0.2.jar",
+            "MD5": "02a11c7e54048cd901e1e1b6fd110a22"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.1.1@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625794,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.1.1.jar",
+            "MD5": "2e124dc68e355a31f3cdadc729a9e124"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.6.6@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 71139,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/entityculling-forge-1.6.6-mc1.20.1.jar",
+            "MD5": "e633559944ee1cecf7511e9ba38dfeb6"
           }
         },
         {
@@ -740,6 +860,16 @@
             "size": 5819,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Extra%20Zombie%20Drops%201.20.1%20v4.jar",
             "MD5": "1f540550a2dcd57ae5ce8b98de7070db"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:2.14.9@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1394880,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/fancymenu_forge_2.14.9-3_MC_1.20.1.jar",
+            "MD5": "434d1c2ffec6a8201a1c5200aaa8f002"
           }
         },
         {
@@ -790,6 +920,16 @@
             "size": 761926,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/flan-1.20.1-1.10.4-forge.jar",
             "MD5": "20186082e0c18a0ed00e1c2aa0d21113"
+          }
+        },
+        {
+          "id": "de.keksuccino.fmaudio:fmextension_audio:1.1.1@jar",
+          "name": "FancyMenu Audio Extension",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78535,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/fm_audio_extension_forge_1.1.3_MC_1.20.1.jar",
+            "MD5": "94544fd3069d7b2fff80ab5e23277e7f"
           }
         },
         {
@@ -923,6 +1063,16 @@
           }
         },
         {
+          "id": "de.keksuccino:justzoom:1.0.2@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9151,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/justzoom_forge_1.0.2_MC_1.20.1.jar",
+            "MD5": "7279dff3825ddea63963ef8ac357ed7b"
+          }
+        },
+        {
           "id": "dev.buildtool.kturrets:k_turrets:3.0.25-1.20.1@jar",
           "name": "K-Turrets",
           "type": "ForgeMod",
@@ -1033,6 +1183,16 @@
           }
         },
         {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          }
+        },
+        {
           "id": "fuzs.mutantmonsters:mutantmonsters:8.0.7@jar",
           "name": "Mutant Monsters",
           "type": "ForgeMod",
@@ -1053,6 +1213,16 @@
           }
         },
         {
+          "id": "com.focamacho:myserveriscompatible:1.0@jar",
+          "name": "MyServerIsCompatible",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3482,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/MyServerIsCompatible-1.20-1.0.jar",
+            "MD5": "61d6f7c70030cbdacbbb0053cf120b79"
+          }
+        },
+        {
           "id": "com.no_ruined_nether_portals:no_ruined_nether_portals:1.0.0@jar",
           "name": "No Ruined Nether Portals",
           "type": "ForgeMod",
@@ -1070,6 +1240,26 @@
             "size": 51611,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/no%20dimensions.jar",
             "MD5": "e8b4201356bf08d15854af1920ea4a61"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.7.4@jar",
+          "name": "NotEnoughAnimations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 429049,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/notenoughanimations-forge-1.7.4-mc1.20.1.jar",
+            "MD5": "9de90e8cbc89b514c0f1dcf234814ba2"
+          }
+        },
+        {
+          "id": "net.coderbot.iris:oculus:1.6.15a@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2806358,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.15a.jar",
+            "MD5": "b6d1e02b5fccf72570fa19606006d711"
           }
         },
         {
@@ -1233,6 +1423,16 @@
           }
         },
         {
+          "id": "generated.forgemod:rrls:4.0.6.1+mc1.20.1-forge@jar",
+          "name": "Remove Reloading Screen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 277896,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/rrls-4.0.6.1+mc1.20.1-forge.jar",
+            "MD5": "6ff0f56b3e745f8da8759cda0a70c236"
+          }
+        },
+        {
           "id": "dev.buildtool:satako:7.0.16-1.20.1@jar",
           "name": "Satako",
           "type": "ForgeMod",
@@ -1250,6 +1450,16 @@
             "size": 148149,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/SereneSeasons-1.20.1-9.0.0.46.jar",
             "MD5": "30faa2569ac8c43e943d277755378b63"
+          }
+        },
+        {
+          "id": "com.github.exopandora:shouldersurfing:1.20.1-4.3.0@jar",
+          "name": "Shoulder Surfing Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 225771,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/ShoulderSurfing-Forge-1.20.1-4.3.0.jar",
+            "MD5": "d7655c3e61bc6a2cbee824037c921a8f"
           }
         },
         {
@@ -1490,16 +1700,6 @@
             "size": 473564,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
             "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6"
-          }
-        },
-        {
-          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
-          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
-          "type": "Library",
-          "artifact": {
-            "size": 6638739,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
-            "MD5": "a0d04ad2a061347e77ed2a57cbc2b8f0"
           }
         },
         {
