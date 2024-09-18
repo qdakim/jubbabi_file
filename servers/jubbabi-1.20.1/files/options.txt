@@ -45,7 +45,7 @@ renderClouds:"true"
 resourcePacks:["vanilla","pointblank_resources","mod_resources","Moonlight Mods Dynamic Assets","hordes-config","file/TZP_1.20.1_2.7.zip","file/TZP Mutant 1.20.1-1.3.zip"]
 incompatibleResourcePacks:["hordes-config"]
 lastServer:
-lang:en_us
+lang:ko_kr
 soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
@@ -156,35 +156,35 @@ key_key.pointblack.attachments:key.keyboard.y
 key_key.pointblack.scope_switch:key.keyboard.v
 key_key.ftbteams.open_gui:key.keyboard.unknown
 key_key.walkietalkie.activate:key.keyboard.unknown
-key_key.jei.nextSearch:key.keyboard.down
-key_key.jei.copy.recipe.id:key.keyboard.unknown
-key_key.jei.previousRecipePage:key.keyboard.page.up
-key_key.jei.recipeBack:key.keyboard.backspace
+key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.clearSearchBar:key.mouse.right
-key_key.jei.previousSearch:key.keyboard.up
-key_key.jei.cheatOneItem2:key.mouse.right
 key_key.jei.showUses:key.keyboard.u
+key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
+key_key.jei.previousSearch:key.keyboard.up
+key_key.jei.recipeBack:key.keyboard.backspace
+key_key.jei.toggleEditMode:key.keyboard.unknown
+key_key.jei.copy.recipe.id:key.keyboard.unknown
+key_key.jei.nextPage:key.keyboard.unknown
+key_key.jei.showRecipe:key.keyboard.r
+key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
+key_key.jei.bookmark:key.keyboard.a
+key_key.jei.cheatOneItem2:key.mouse.right
+key_key.jei.showRecipe2:key.mouse.left
+key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.showUses2:key.mouse.right
+key_key.jei.cheatOneItem:key.mouse.left
+key_key.jei.toggleCheatMode:key.keyboard.unknown
 key_key.jei.nextRecipePage:key.keyboard.page.down
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
-key_key.jei.cheatOneItem:key.mouse.left
-key_key.jei.focusSearch:key.keyboard.f:CONTROL
-key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
-key_key.jei.showRecipe:key.keyboard.r
-key_key.jei.showRecipe2:key.mouse.left
-key_key.jei.showUses2:key.mouse.right
-key_key.jei.cheatItemStack2:key.mouse.middle
-key_key.jei.cheatItemStack:key.mouse.left:SHIFT
-key_key.jei.toggleCheatMode:key.keyboard.unknown
-key_key.jei.closeRecipeGui:key.keyboard.escape
-key_key.jei.nextPage:key.keyboard.unknown
-key_key.jei.toggleEditMode:key.keyboard.unknown
-key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
-key_key.jei.toggleCheatModeConfigButton:key.mouse.left:CONTROL
 key_key.jei.toggleWildcardHideIngredient:key.mouse.right:CONTROL
-key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
-key_key.jei.bookmark:key.keyboard.a
-key_key.jei.previousPage:key.keyboard.unknown
+key_key.jei.nextSearch:key.keyboard.down
+key_key.jei.cheatItemStack2:key.mouse.middle
+key_key.jei.previousRecipePage:key.keyboard.page.up
+key_key.jei.toggleHideIngredient:key.mouse.left:CONTROL
+key_key.jei.closeRecipeGui:key.keyboard.escape
+key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
+key_key.jei.cheatItemStack:key.mouse.left:SHIFT
+key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.tacz.inspect.desc:key.keyboard.h
 key_key.tacz.reload.desc:key.keyboard.r
 key_key.tacz.shoot.desc:key.mouse.left
@@ -193,6 +193,7 @@ key_key.tacz.fire_select.desc:key.keyboard.k
 key_key.tacz.aim.desc:key.mouse.right
 key_key.tacz.refit.desc:key.keyboard.unknown
 key_key.tacz.zoom.desc:key.keyboard.v
+key_key.tacz.melee.desc:key.keyboard.v
 key_key.tacz.open_config.desc:key.keyboard.t:ALT
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
@@ -222,6 +223,7 @@ key_Camera up:key.keyboard.page.up
 key_Camera down:key.keyboard.page.down
 key_Swap shoulder:key.keyboard.o
 key_Toggle perspective:key.keyboard.unknown
+key_Free look:key.keyboard.left.alt
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal

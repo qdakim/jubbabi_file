@@ -19604,9 +19604,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 9627,
+            "size": 9704,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/options.txt",
-            "MD5": "f998e096607f228fbd89a7acc1d155b5",
+            "MD5": "4c870b1003a1e7e0eb4a92938dbb97f5",
             "path": "options.txt"
           }
         },
