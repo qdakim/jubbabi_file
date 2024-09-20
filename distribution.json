@@ -1713,16 +1713,6 @@
           }
         },
         {
-          "id": "zombie_extreme:zombie_extreme:0.2.6@jar",
-          "name": "Zombie Extreme",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6298415,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Zombie%20Extreme%201.20.1%200.2.6.jar",
-            "MD5": "b89936f46b4097a1a41225a1e0f91d06"
-          }
-        },
-        {
           "id": "alligator_snapping_turtle_spawns.json",
           "name": "alligator_snapping_turtle_spawns.json",
           "type": "File",
