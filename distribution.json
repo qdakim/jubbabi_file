@@ -1713,6 +1713,16 @@
           }
         },
         {
+          "id": "com.corosus:zombieawareness:1.20.1-1.13.1@jar",
+          "name": "Zombie Awareness",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 291139,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/zombieawareness-1.20.1-1.13.1.jar",
+            "MD5": "bf52632df04fceed82ad7073b8d14240"
+          }
+        },
+        {
           "id": "alligator_snapping_turtle_spawns.json",
           "name": "alligator_snapping_turtle_spawns.json",
           "type": "File",
