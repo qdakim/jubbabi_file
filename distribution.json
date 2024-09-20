@@ -673,6 +673,16 @@
           }
         },
         {
+          "id": "com.simibubi:create:0.5.1.f@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14964127,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
+          }
+        },
+        {
           "id": "team.creative:creativecore:2.11.30@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
