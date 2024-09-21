@@ -1743,6 +1743,16 @@
           }
         },
         {
+          "id": "com.sk89q:worldedit:7.2.15+6463-5ca4dff@jar",
+          "name": "WorldEdit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5825402,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "MD5": "bd0e7cff7896348faab92e43300d0639"
+          }
+        },
+        {
           "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.5@jar",
           "name": "YUNG's API",
           "type": "ForgeMod",
