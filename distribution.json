@@ -863,6 +863,16 @@
           }
         },
         {
+          "id": "dev.shadowsoffire:fastfurnace:8.0.2@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6170,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/FastFurnace-1.20.1-8.0.2.jar",
+            "MD5": "48b8d2df29ea216a625928e29a6434da"
+          }
+        },
+        {
           "id": "net.mehvahdjukaar:fastpaintings:1.20-1.2.7@jar",
           "name": "Fast Paintings",
           "type": "ForgeMod",
@@ -923,6 +933,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish:framework:0.7.8@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 303364,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.8.jar",
+            "MD5": "f09ed1192f54995c6d1b0936e7c540fa"
+          }
+        },
+        {
           "id": "dev.ftb.mods:ftblibrary:2001.2.2@jar",
           "name": "FTB Library",
           "type": "ForgeMod",
@@ -970,6 +990,16 @@
             "size": 11124968,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/gml-4.0.9-all.jar",
             "MD5": "09db2f78b7cb67b27dd2b58989bc4947"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:goblintraders:1.9.3@jar",
+          "name": "Goblin Traders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 320235,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/goblintraders-forge-1.20.1-1.9.3.jar",
+            "MD5": "acbba033aadeecf04cd702aca05c02d4"
           }
         },
         {
@@ -1313,6 +1343,16 @@
           }
         },
         {
+          "id": "dev.shadowsoffire:placebo:8.6.2@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 285351,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/Placebo-1.20.1-8.6.2.jar",
+            "MD5": "0b7358e758257452184a3a8f82f60abe"
+          }
+        },
+        {
           "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
           "name": "Player Animator",
           "type": "ForgeMod",
@@ -1480,6 +1520,16 @@
             "size": 135614,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/simpleshops-1.2.2.jar",
             "MD5": "2620b7e35ea1398f2e31e3a6ebf0555f"
+          }
+        },
+        {
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.6.7@jar",
+          "name": "3d-Skin-Layers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 477509,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/skinlayers3d-forge-1.6.7-mc1.20.1.jar",
+            "MD5": "a57aa30fddc3376bfeb0d8ed51583508"
           }
         },
         {
