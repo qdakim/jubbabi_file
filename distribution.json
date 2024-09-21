@@ -1143,6 +1143,16 @@
           }
         },
         {
+          "id": "noobanidus.mods:lootr:0.7.34.87@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 347913,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/lootr-forge-1.20-0.7.34.89.jar",
+            "MD5": "268721ef907b1d9f9a42e36d370c6c90"
+          }
+        },
+        {
           "id": "mcjty.lostcities:lostcities:1.20-7.1.8@jar",
           "name": "LostCities",
           "type": "ForgeMod",
@@ -1430,6 +1440,16 @@
             "size": 1001058,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/PuzzlesLib-v8.1.20-1.20.1-Forge.jar",
             "MD5": "e171c03e6665e0f04588a96f87753e9b"
+          }
+        },
+        {
+          "id": "dev.marston:randomloot:0.0.0@jar",
+          "name": "RandomLoot 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 316229,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/randomloot-0.0.0.jar",
+            "MD5": "d351f60b1323fe7bd56d260d1be853cf"
           }
         },
         {
