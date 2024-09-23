@@ -823,16 +823,6 @@
           }
         },
         {
-          "id": "yesman.epicfight.main:epicfight:20.9.2@jar",
-          "name": "Epic Fight",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6731797,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/epicfight-forge-20.9.2-1.20.1.jar",
-            "MD5": "2739ec40df9d1c63ad28feb094512ca1"
-          }
-        },
-        {
           "id": "com.eruannie_9:experimentalsettingsdisabler:3.0@jar",
           "name": "Experimental Settings Disabler",
           "type": "ForgeMod",
