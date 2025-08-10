@@ -10,7 +10,7 @@
     {
       "id": "jubbabi-1.20.1",
       "name": "jubbabi (Minecraft 1.20.1)",
-      "description": "jubbabi Running Minecraft 1.20.1 (Forge v47.3.7)",
+      "description": "Minecraft 1.20.1 (Forge v47.4.6)",
       "icon": "https://github.com/qdakim/jubbabi_file/raw/main/server-icon.png",
       "version": "1.0.0",
       "address": "www.jubbabi.kro.kr",
@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16612,
-                "MD5": "3ce7115d31535823f1ff2833d52d111e",
+                "size": 16980,
+                "MD5": "715a6817a28842d2a7b3fe9577bc9586",
                 "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/repo/versions/1.20.1-forge-47.4.6/1.20.1-forge-47.4.6.json"
               }
             },
@@ -2290,77 +2290,6 @@
             "size": 492998,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 9704,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/options.txt",
-            "path": "options.txt"
-          }
-        },
-        {
-          "id": "servers.dat",
-          "name": "servers.dat",
-          "type": "File",
-          "artifact": {
-            "size": 147,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/servers.dat",
-            "MD5": "982b938b71ae2be6cc57169598989cd8",
-            "path": "servers.dat"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.1.1.zip.txt",
-          "name": "ComplementaryReimagined_r5.1.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 289,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt",
-            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.2.1.zip",
-          "name": "ComplementaryReimagined_r5.2.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 439882,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip",
-            "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
-          }
-        },
-        {
-          "id": "ComplementaryReimagined_r5.2.1.zip.txt",
-          "name": "ComplementaryReimagined_r5.2.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 176,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt",
-            "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.1.1.zip.txt",
-          "name": "ComplementaryUnbound_r5.1.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 249,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt",
-            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
-          }
-        },
-        {
-          "id": "Insanity-Shader-Universal-v1.650.zip",
-          "name": "Insanity-Shader-Universal-v1.650.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1037373,
-            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
-            "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
           }
         }
       ]
