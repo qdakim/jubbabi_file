@@ -20,7 +20,17 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "shaderpacks/*.txt", "config/**/**.**"]
+      "patterns": [
+        "options.txt",
+        "config/**/**.**",
+        "defaultconfigs/**/**.**",
+        "fancymenu_data/**/**.**",
+        "fancymenu_instance_data/**/**.**",
+        "fancymenu_setups/**/**.**",
+        "item_scrapper_generated/**/**.**",
+        "kubejs/**/**.**",
+        "pointblanks/**/**.**"
+      ]
     }
   ]
 }
