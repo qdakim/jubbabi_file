@@ -1413,6 +1413,16 @@
           }
         },
         {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160406,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi_v2-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+          }
+        },
+        {
           "id": "at.xander:jrftl:1.6.0@jar",
           "name": "JRFTL",
           "type": "ForgeMod",
@@ -1450,6 +1460,16 @@
             "size": 625185,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi_v2-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.8.6+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299342,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi_v2-1.20.1/forgemods/required/koreanpatch-forge-1.8.6+mc1.20.1.jar",
+            "MD5": "3217675cd4759254dd755c55cfb2c55c"
           }
         },
         {
@@ -1730,6 +1750,16 @@
             "size": 424035,
             "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi_v2-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/qdakim/jubbabi_file/main/servers/jubbabi_v2-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
